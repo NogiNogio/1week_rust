@@ -1,3 +1,12 @@
 theme:
   name: material
-site_name: My Docs
+site_name: 1week_rust
+nav:
+  - Home: index.md
+  - Day1: day1.md
+  - Day2: day2.md
+  - Day3: day3.md
+  - Day4: day4.md
+  - Day5: day5.md
+  - Day6: day6.md
+  - Day7: day7.md

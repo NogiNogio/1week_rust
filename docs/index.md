@@ -1,17 +1,9 @@
-# Welcome to MkDocs
+# 1week_rust
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+- [Day1](day1.md)
+- [Day2](day2.md)
+- [Day3](day3.md)
+- [Day4](day4.md)
+- [Day5](day5.md)
+- [Day6](day6.md)
+- [Day7](day7.md)
